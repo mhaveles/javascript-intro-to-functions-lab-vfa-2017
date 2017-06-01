@@ -9,7 +9,7 @@ function whisper(string) {
 }
 
 //logs string all uppercase
-function logShout(string) {
+function logShout(string)  {
   string = string.toUpperCase()
   console.log(string);
 }
